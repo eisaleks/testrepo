@@ -1,2 +1,3 @@
 1. It is first text file.
 merge changes from newBranch and 1branch
+add changes on remote
